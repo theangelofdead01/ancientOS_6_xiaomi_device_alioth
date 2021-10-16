@@ -2850,7 +2850,7 @@
         <path name="speaker-mono" />
     </path>
 
-    <path name="speaker-fluid">
+    <path name="speaker-ancient">
         <path name="speaker-mono" />
     </path>
 
@@ -3061,8 +3061,8 @@
         <path name="speaker-mono" />
     </path>
 
-    <path name="voice-speaker-fluid">
-        <path name="speaker-fluid" />
+    <path name="voice-speaker-ancient">
+        <path name="speaker-ancient" />
     </path>
 
     <path name="voice-speaker-vbat">
